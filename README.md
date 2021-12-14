@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham-Kumbhar
 - 👀 I’m interested in game devlopment and coding
-- 🌱 I’m currently learning unity , c++ , python
+- 🌱 I’m currently learning unity , c++ , python , java
 - 💞️ I’m looking to collaborate on untiy games 
 - 📫 How to reach me shubhamkumbhar1911@gmail.com
 
